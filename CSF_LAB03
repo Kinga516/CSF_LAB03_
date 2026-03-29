@@ -1,1 +1,4 @@
 
+number = int(input("enetr your number.:"))
+if number>0:
+print("The number is positive") 
